@@ -1,0 +1,29 @@
+_repo: Bill-Bolton-and-the-Winged-Cartwheels_58407
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sainsbury, Noel
+    alias: Sainsbury, Noel Everingham
+    birthdate: 1884
+    gutenberg_agent_id: '37938'
+    url: http://www.gutenberg.org/2009/agents/37938
+    wikipedia: http://www.gutenberg.org/ebooks/author/42863
+description: ''
+gutenberg_issued: '2018-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58407'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aeronautics, Military -- Juvenile fiction'
+- !lcsh 'Naval aviation -- Juvenile fiction'
+- !lcsh 'Airplanes -- Piloting -- Juvenile fiction'
+- !lcsh 'Bolton, Bill (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Air pilots -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Bill Bolton and the Winged Cartwheels
+url: http://www.gutenberg.org/ebooks/58407
